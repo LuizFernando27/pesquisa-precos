@@ -1,0 +1,15 @@
+# Ignora ambiente virtual
+venv/
+
+# Ignora dados brutos e modelos
+data/
+*.safetensors
+modelo_salvo_local/
+
+# Ignora arquivos temporários
+__pycache__/
+*.py[cod]
+*.pyo
+*.ipynb_checkpoints/
+.DS_Store
+*.swp
