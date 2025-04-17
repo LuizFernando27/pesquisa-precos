@@ -13,3 +13,6 @@ __pycache__/
 *.ipynb_checkpoints/
 .DS_Store
 *.swp
+
+#Ignora senha do banco
+.env
